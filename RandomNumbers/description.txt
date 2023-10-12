@@ -1,0 +1,5 @@
+Write a function that accepts three numbers, a min (min), a max (max), and a length, and returns an array filled with random, non-repeating numbers between the given min and max that is the length of the given length.
+
+Example:
+createRandomArray(min, max, length)
+createRandomArray(1, 100, 6) // => can return [1, 56, 76, 87, 44, 21]
