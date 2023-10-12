@@ -8,6 +8,7 @@ This repository was created to provide coding challenges to any developer who wo
 | Challenge Name         | Description          |
 | ---------------------- | ---------------      |
 | ArrayOfArrays          | Write a function that takes a positive integer n and returns an array that is n length where each item is an array with just the index of that particular array inside. |
+| ArrayOfProducts        | Write a function that takes in a given non-empty array and returns an array containing the product of every other number in the original array besides the number that is in the original index.                  |
 | DuplicateToParenthesis | Write a function that accepts a string and returns a converted string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string.               |
 | FirstLetterSort        | Write a function that accepts an array of words and returns the words sorted alphabetically by first letter unless multiple words start with the same letter.      |
 | PhoneNumber            | Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.                         |
