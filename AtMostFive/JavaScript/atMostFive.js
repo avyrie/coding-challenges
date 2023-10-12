@@ -8,22 +8,22 @@ const example3 = 6;
 
 // ----- Solution #1 -----
 
-const atLeastFive = (num) => {
-    if(num < 5) {
+const atMostFive = (num) => {
+    if(num > 5) {
         num = 5
     }
     for(let i = 1; i <= num; i++) {
         console.log(i)
     } 
 }
-console.log(atLeastFive(example1))
+console.log(atMostFive(example1))
 
 
 // ----- Solution #2 -----
 
-const logAtLeastFive = (num) => {
-    for (let i = 1; i <= Math.max(5, num); i++) {
+const logAtMostFive = (num) => {
+    for (let i = 1; i <= Math.min(5, num); i++) {
         console.log(i)
     }
 }
-console.log(logAtLeastFive(example2))
+console.log(logAtMostFive(example2))
