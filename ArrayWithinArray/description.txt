@@ -1,4 +1,4 @@
-// Write a function that returns true if all items within a given array exist within a second given array and false if not.
+Write a function that returns true if all items within a given array exist within a second given array and false if not.
 
 Example:
 arrayWithinArray([1, 2, 3], [1, 2, 3, 4]) // => returns true
