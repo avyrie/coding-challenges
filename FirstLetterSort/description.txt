@@ -1,0 +1,4 @@
+Write a function that accepts an array of words and returns the words sorted alphabetically by first letter unless multiple words start with the same letter. In that case, the words must appear in the order they were originally regardless of full word alphabetical sort.
+
+Example:
+firstLetterSort(['elephant', 'cat', 'apple', 'yo yo', 'crocodile]) // => returns ['apple', 'cat', 'crocodile', 'elephant', 'yo yo]

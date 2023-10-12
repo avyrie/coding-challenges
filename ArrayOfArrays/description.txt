@@ -1,0 +1,4 @@
+Write a function that takes a positive integer n and returns an array that is n length where each item is an array with just the index of that particular array inside.
+
+Example: 
+arrayOfArrays(6) // => returns [[0], [1], [2], [3], [4], [5]]
