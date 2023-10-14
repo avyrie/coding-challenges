@@ -1,0 +1,4 @@
+Write a function that takes in an array of arrays signifying the amount of people getting on and leaving a bus at each stop (where each item in the array represents a stop). The first value of each item represents the amount of people boarding while the second represents the amount of people leaving. The function should return the amount of people left on the bus at the end of its route.
+
+Example:
+busStop([3,0],[9,1],[4,8]) // => returns 7
