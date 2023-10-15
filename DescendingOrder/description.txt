@@ -1,0 +1,4 @@
+Write a function that takes in an array of words and returns teh array with the words sorted in descending order by length.
+
+Example:
+descendingOrder(['long', 'longer', 'longest', 'longlierest', 'short', 'shor', 'sho', 'sh']) // => returns ['longlierest','longest','longer','short','long','shor','sho','sh']
