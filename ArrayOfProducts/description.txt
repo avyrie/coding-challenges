@@ -1,4 +1,4 @@
-Write a function that takes in a given non-empty array and returns an array containing the product of every other number in the original array besides the number that is in the original index.
+Write a function that takes in a non-empty array and returns an array containing the product of every other number in the original array besides the number that is in the original index.
 
 Example: 
 arrayOfProducts([1, 6, 3, 4]) // => returns [72, 12, 24, 18]

@@ -1,0 +1,4 @@
+Write a function that accepts an array and returns another array with each value in the original doubled.
+
+Example: 
+doubleArray([1, 8, 3, 6]) // => returns [2, 16, 6, 12]

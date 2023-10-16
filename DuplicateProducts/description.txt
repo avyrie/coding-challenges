@@ -1,0 +1,5 @@
+Write a function that accepts a list of product names, weights, and prices and returns the number of duplicate products present within the list. Duplicate products contain identical parameters for all fields in the list (name, price, and weight).
+
+Example: 
+duplicateProducts({ productNames: ['ball', 'bat', 'jersey', 'ball', 'bat', 'glove'], productWeights: [1, 5, 7, 1, 7, 10], productPrices: [5, 10, 15, 5, 20, 25] }) // => returns 1
+
