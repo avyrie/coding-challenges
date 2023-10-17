@@ -1,1 +1,0 @@
-Write a function that takes an unsorted array and an element, "k" and returns "YES" if "k" exists in that array. Return "NO" if "k" does not exist in the array.

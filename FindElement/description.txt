@@ -1,0 +1,4 @@
+Write a function that accepts an unsorted array and an element, "k" and returns "YES" if "k" exists in that array. Return "NO" if "k" does not exist in the array.
+
+Example: 
+findElement([1, 2, 3, 4, 5, 6], 6) // => returns "YES"
